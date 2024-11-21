@@ -259,6 +259,11 @@ a:not([href]):not([class]), a:not([href]):not([class]):hover {
   text-decoration: none;
 }
 
+.iaaaa {
+  background-image: url("../assets/img/test_hoge.jpg");
+  height: 300px;
+}
+
 pre,
 code,
 kbd,
